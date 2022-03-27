@@ -10,7 +10,13 @@ html,body{
     flex-direction: column;
     background: #FBBB2C;
 }
+
+label{
+    font-weight: bold;
+}
+
 input{
+    font-weight: bold;
     background-color: transparent;
     border: none;
     border-bottom: 1px solid #000; 
@@ -25,6 +31,7 @@ h1{
 }
 
 .form{
+    color: black;
     flex-direction: column;
     margin: 20px auto;
     display: flex;
