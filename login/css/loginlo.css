@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto' , sans-serif;
+}
+
+body{
+    position: left;
+}
+
+
+a{
+    position:absolute;
+    right: 556px;
+    width: 33px;
+    height: 20px;
+
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 20px;
+    /* identical to box height, or 182% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+
+html,body{
+    display: flex;
+    flex-direction: column;
+    background: #FBBB2C;
+}
+
